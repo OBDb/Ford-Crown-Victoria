@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    CROWNVIC_FLI_ALT: 29.01961
+  response: 728046261854A
+- expected_values:
+    CROWNVIC_FLI_ALT: 56.86275
+  response: '7280462618591'
