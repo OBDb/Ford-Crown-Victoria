@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    CROWNVIC_ETC_ANG_ACT: 4.22852
+  response: 7E80562093C0875
+- expected_values:
+    CROWNVIC_ETC_ANG_ACT: 4.47852
+  response: 7E80562093C08F5
+- expected_values:
+    CROWNVIC_ETC_ANG_ACT: 4.5
+  response: 7E80562093C0900
+- expected_values:
+    CROWNVIC_ETC_ANG_ACT: 23
+  response: 7E80562093C2E00

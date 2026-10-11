@@ -1,0 +1,5 @@
+command_id: 7E0.0122
+test_cases:
+- expected_values:
+    FRP_REL: 479.609
+  response: 7E804412217B7
