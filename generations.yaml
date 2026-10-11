@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Crown_Victoria"
+
+generations:
+  - name: "First Generation"
+    start_year: 1992
+    end_year: 1997
+    description: "On the Panther platform with the 4.6 L Modular V8."
+  - name: "Second Generation"
+    start_year: 1998
+    end_year: 2012
+    description: "A revised Panther sedan with the 4.6 L V8, including the Police Interceptor."
